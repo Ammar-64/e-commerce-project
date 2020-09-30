@@ -1,4 +1,4 @@
-# e-commerce project 
+# amazing e-commerce project 
 During the course of the coming weeks, we'll be building the new better Amazon, it’s better because you’ll build it
 ## the requirements will come in pieces each class
 
